@@ -1,11 +1,7 @@
 # COMBI
 _Planetary &amp; Harmonic Drive : COMBI REDUCER Design Tool_
 
-
-
-![case01.svg](http://1.bp.blogspot.com/-F_kEDwR4niE/VW8n2-qTsiI/AAAAAAAAcJA/iV22T-clb6U/s640/20150603_006.png)
-
-![case02.svg](http://1.bp.blogspot.com/-r8eonu7ySqY/VW8n2peQToI/AAAAAAAAcI8/wmAs91TuN6g/s640/20150603_005.png)
+![combi](https://cloud.githubusercontent.com/assets/12775748/10241812/1b5fe794-6927-11e5-8751-bb82607c26c6.png)
 
 
 * Source Code : [FGPG_V11.ipynb](http://nbviewer.ipython.org/gist/dymaxionkim/fe9015463cd41cfb3f40)
