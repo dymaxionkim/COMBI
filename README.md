@@ -4,9 +4,6 @@ _Planetary &amp; Harmonic Drive : COMBI REDUCER Design Tool_
 ![combi](https://cloud.githubusercontent.com/assets/12775748/10241812/1b5fe794-6927-11e5-8751-bb82607c26c6.png)
 
 
-* Source Code : [COMBI_REDUCER_V05.ipynb](https://github.com/dymaxionkim/COMBI/blob/master/COMBI%20REDUCER%20v05.ipynb)
-
-
 ## How to use
 1. Just go to http://juliabox.org
 2. Just Log in and Make new Working Directory.
